@@ -1,0 +1,14 @@
+# DADOS FICTÍCIOS - apenas para demonstração
+# Formato: dia;cliente;valor_parcela;parcelas;total;observacao;pago
+dia;cliente;valor_parcela;parcelas;total;observacao;pago
+5;Mercearia Boa Vista;150.00;1x3;;;OK
+5;Maria Souza;89.90;2x4;;;
+8;Padaria Pão Quente;320.50;1x2;;Cliente antigo;OK
+10;João Pereira;75.00;3x6;;;
+10;Oficina do Zé;410.00;1x5;;Renegociado;
+15;Ana Lima;120.00;1x1;;;OK
+15;Carlos Mendes;199.99;4x8;;;
+20;Loja Estrela;560.00;2x3;;;
+25;Fernanda Alves;95.75;1x4;;;
+28;Bar do Tonico;230.00;5x6;;;OK
+30;Studio Bela Forma;180.00;1x6;1080.00;Total informado manualmente;
