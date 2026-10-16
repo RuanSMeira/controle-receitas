@@ -86,4 +86,4 @@ pytest
 
 ## Autor
 
-Ruan Meira · [GitHub](https://github.com/RuanSMeira) · [LinkedIn](https://linkedin.com/in/ruanmeira)
+Ruan Meira · [GitHub](https://github.com/RuanSMeira) · [LinkedIn](https://www.linkedin.com/in/ruan-silva-meira-794ba230b/)
